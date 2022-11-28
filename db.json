@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name": "Raj",
+            "age":18,
+            "email": "raj@gmail.com"
+        },
+        {
+            "id":2,
+            "name": "john",
+            "age":25,
+            "email": "john@gmail.com"
+        }
+    ]
+}
