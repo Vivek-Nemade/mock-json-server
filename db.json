@@ -1,16 +1,51 @@
 {
-    "users":[
-        {
-            "id":1,
-            "name": "Raj",
-            "age":18,
-            "email": "raj@gmail.com"
-        },
-        {
-            "id":2,
-            "name": "john",
-            "age":25,
-            "email": "john@gmail.com"
-        }
+    "books":[
+        
+    {
+        "id": 1,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
+      },
+      {
+        "id": 2,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QL6U67H4zjxYwk0QTwSFO0ajI-eEOFQNxp3pCbbDkQ&s",
+        "book_name": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "genre": "Romance",
+        "edition": "2018",
+        "publisher": "Simon & Schuster",
+        "cost": 899,
+        "borrowed": false
+      },
+      {
+        "id": 3,
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOGNkZDU0YjktN2Q5Zi00MmY0LWI3Y2YtNmQzOGQxY2UzNGM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "book_name": "Lolita",
+        "author": "Vladimir Nabokov",
+        "genre": "Fiction",
+        "edition": "1955",
+        "publisher": "Olympia Press",
+        "cost": 1599,
+        "borrowed": false
+      },
+      {
+        "id": 4,
+        "image_url": "https://m.media-amazon.com/images/I/51136thBsPL.jpg",
+        "book_name": "Shivaji the Great Maratha",
+        "author": "Anant Pai",
+        "genre": "Fiction",
+        "edition": "1988",
+        "publisher": "Chennai Tulika",
+        "cost": 1499,
+        "borrowed": false
+      }
+    
+
     ]
 }
