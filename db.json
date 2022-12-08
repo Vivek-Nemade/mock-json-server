@@ -47,5 +47,14 @@
       }
     
 
+    ],
+    "user":[
+        {
+           "id":1,
+           "Username":"ram",
+           "FullName":"ram natvarlal",
+           "Email":"ram@gmail.com",
+           "Password":"ram123"
+        }
     ]
 }
